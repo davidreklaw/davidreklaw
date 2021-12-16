@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thewalker.david@gmail.com**
 - 🔭 I’m currently working on **Endurance Alchemy**
-- :school: **<a href=github.com/dwalke22>School GitHub</a>**
+- :school: **<a href=https://github.com/dwalke22>School GitHub</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
