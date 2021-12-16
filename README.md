@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidreklaw" alt="davidreklaw" /></a> </p>
 
 - 📫 How to reach me **thewalker.david@gmail.com**
+- 🔭 I’m currently working on **Endurance Alchemy**
 - :school: **<a href=github.com/dwalke22>School GitHub</a>**
 
 <h3 align="left">Connect with me:</h3>
