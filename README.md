@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Current Senior and Student-Athlete at the University of West Georgia</h3>
+<h3 align="center">University of West Georgia graduate and former collete athlete in the sports of cross country and track and field</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidreklaw" alt="davidreklaw" /></a> </p>
 
