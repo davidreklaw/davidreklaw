@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">University of West Georgia graduate and former collete athlete in the sports of cross country and track and field</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidreklaw" alt="davidreklaw" /></a> </p>
+<h3 align="center">University of West Georgia Graduate and Former Collegiate Athlete in The Sports of Cross Country and Track and Field</h3>
 
 - 📫 How to reach me **thewalker.david@gmail.com**
 - 🔭 I’m currently working on **Endurance Alchemy**
