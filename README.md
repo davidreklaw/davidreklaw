@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">Curently Active Duty Navy Trying To Kepp Up On Programming Skills</h3>
 <h3 align="center">University of West Georgia Graduate and Former Collegiate Athlete in The Sports of Cross Country and Track and Field</h3>
 
 - 📫 How to reach me **thewalker.david@gmail.com**
